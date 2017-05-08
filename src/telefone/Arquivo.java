@@ -49,7 +49,7 @@ public class Arquivo {
 					numTel += '2';
 					break;
 				case 'D':
-					numTel += '2';
+					numTel += '3';
 					break;
 				case 'E':
 					numTel += '3';
@@ -58,7 +58,7 @@ public class Arquivo {
 					numTel += '3';
 					break;
 				case 'G':
-					numTel += '3';
+					numTel += '4';
 					break;
 				case 'H':
 					numTel += '4';
@@ -67,7 +67,7 @@ public class Arquivo {
 					numTel += '4';
 					break;
 				case 'J':
-					numTel += '4';
+					numTel += '5';
 					break;
 				case 'K':
 					numTel += '5';
